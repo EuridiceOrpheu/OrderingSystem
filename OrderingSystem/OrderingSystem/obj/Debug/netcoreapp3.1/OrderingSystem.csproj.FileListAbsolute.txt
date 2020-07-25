@@ -1,0 +1,12 @@
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.exe
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.deps.json
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.runtimeconfig.json
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.runtimeconfig.dev.json
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.dll
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\bin\Debug\netcoreapp3.1\OrderingSystem.pdb
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.AssemblyInfoInputs.cache
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.AssemblyInfo.cs
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.dll
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.pdb
+C:\Users\Botnari Iulia\source\repos\OrderingSystem\OrderingSystem\obj\Debug\netcoreapp3.1\OrderingSystem.genruntimeconfig.cache

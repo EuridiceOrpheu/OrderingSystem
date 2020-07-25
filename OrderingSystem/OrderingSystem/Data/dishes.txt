@@ -1,0 +1,3 @@
+Cheesecake;Sweet treats.;1,2,3;60
+Caffe Americano;Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance.;4,5;10
+Flat White;Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.;5,6;20

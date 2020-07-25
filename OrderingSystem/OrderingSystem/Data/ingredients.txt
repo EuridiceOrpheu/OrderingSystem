@@ -1,0 +1,6 @@
+1;Strawberry;8
+2;Cookies;10
+3;Cream;8,9
+4;Water;5
+5;Brewed Espresso;5
+6;Milk;6
